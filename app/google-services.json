@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "944396268394",
+    "project_id": "qrattendencesystem",
+    "storage_bucket": "qrattendencesystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944396268394:android:cd3f340cd35ac21ceeab13",
+        "android_client_info": {
+          "package_name": "com.ruhul.qrattendencesystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944396268394-vosnoo2pv37ls3ebvpt5e53mj1lc1eef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ruhul.qrattendencesystem",
+            "certificate_hash": "4a3ce77ff8d531372208aa04d1ab7346ff67ae25"
+          }
+        },
+        {
+          "client_id": "944396268394-kbsjo56d9r8v7uuf25qphdjjtho6id0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_f0nqx11RTRWUyHikOagiCLEDPFH8p40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944396268394-kbsjo56d9r8v7uuf25qphdjjtho6id0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
