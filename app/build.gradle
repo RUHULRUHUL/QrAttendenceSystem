@@ -41,5 +41,9 @@ dependencies {
     //-------firebase dependencies----
     implementation platform('com.google.firebase:firebase-bom:27.0.0')
     implementation 'com.google.firebase:firebase-analytics'
+
+
+    implementation 'com.budiyev.android:code-scanner:2.1.0'
+    implementation 'com.karumi:dexter:6.2.2'
 }
 apply plugin: 'com.google.gms.google-services'
